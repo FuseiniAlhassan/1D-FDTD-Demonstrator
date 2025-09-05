@@ -43,7 +43,7 @@ The code is designed for:
   - Animated wave propagation (`.mp4` and `.gif`)
   - Energy bar chart
 
-
+![](figures/final_fields_and_windows.png)
 
 ## Requirements
 - Python 3.x

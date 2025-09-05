@@ -1,4 +1,3 @@
-# fdtd_1d_full.py
 #1D FDTD demonstrator (single-file)
 
 import os

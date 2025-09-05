@@ -1,4 +1,4 @@
-#1D FDTD demonstrator (single-file)
+#1D FDTD demonstrator
 
 import os
 import numpy as np
